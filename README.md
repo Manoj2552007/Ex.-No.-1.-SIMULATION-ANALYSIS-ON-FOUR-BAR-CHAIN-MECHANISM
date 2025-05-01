@@ -54,6 +54,10 @@
 
 ## Output:
 
+![image](https://github.com/user-attachments/assets/3d91e1b8-2c21-473b-9d33-9da0e59cdb8a)
+
+
+
 
 ### Name: S.Yogesh
 ### Register Number:  212224230311
